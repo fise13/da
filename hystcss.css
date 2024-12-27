@@ -1,0 +1,132 @@
+﻿/*=== HYST Нафигационная панель админа ===*/
+
+.hystadminnavigationblock {
+position: fixed;
+top: 10px;
+left: 10px;
+z-index: 9999;
+}
+
+.hystaminnavigationbutton {
+padding: 10px;
+color: #300077;
+border: solid 1px #300077;
+background-color: white;
+}
+
+.hystaminnavigationbutton:hover {
+color: white;
+border: solid 1px white;
+background-color: #300077;
+}
+
+.hsystcanselbutton {
+background: transparent url(./img/cros.png) no-repeat center center;
+    background-size: auto auto;
+width: 30px;
+height: 30px;
+border: none;
+background-size: contain;
+cursor: pointer;
+margin: 0px 10px;
+}
+
+/*=== HYST скрытая кнопка ===*/
+
+.hystsecretbuton {
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 20px;
+height: 20px;
+display: block;
+}
+
+/*=== HYST скрытая кнопка ===*/
+
+/*=== HYST Нафигационная панель админа ===*/
+
+
+/*=== HYST панель старницы adm.php ===*/
+
+.hystsubmitbutton {
+background: transparent url(./img/add.png) no-repeat center center;
+width: 30px;
+height: 30px;
+border: none;
+background-size: contain;
+cursor: pointer;
+margin: 0px 10px;
+}
+
+.hystcanselbutton {
+background: transparent url(./img/cros.png) no-repeat center center;
+width: 30px;
+height: 30px;
+border: none;
+background-size: contain;
+cursor: pointer;
+margin: 0px 10px;
+}
+
+
+.hystadmindatacontainer {
+width: 1100px;
+padding: 20px;
+border: solid 1px gray;
+display: inline-block;
+text-align: left;
+background-color: white;
+margin-top: 100px;
+}
+
+
+.hystadmindatacontainer > table {
+width: 100%;
+}
+
+.hysatadminvalid {
+display: none;
+}
+
+.hysatadmincapt {
+width: 30px;
+height: 30px;
+border: outset 2px gray;
+background-color: white;
+padding: 5px;
+font-size: 20px;
+text-align: center;
+color: gray;
+}
+
+.hysatadmincapt:hover {
+color: black;
+border: outset 2px #5B5B5B;
+background-color: #CCCCCC;
+}
+
+.hystadmnavigationbuton {
+padding: 10px;
+color: #300077;
+border: solid 1px #300077;
+background-color: white;
+text-align: center;
+width: 250px;
+font-size: 16px;
+}
+
+.hystadmnavigationbuton:hover {
+color: white;
+border: solid 1px white;
+background-color: #300077;
+}
+
+.inlinelighgray {
+display: inline-block;
+padding: 10px;
+background-color: lightgray;
+}
+
+
+/*=== HYST панель старницы adm.php ===*/

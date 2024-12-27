@@ -1,0 +1,104 @@
+@media screen and (max-width: 1100px), only screen and (max-device-width : 1100px) {
+
+	.shirina {
+	width: 700px;
+	}
+
+	.sliderbtns {
+	bottom: 330px;
+	left: 20px;
+	}
+
+	.sssskartins {
+	width: 100%;
+	height: 500px;
+	background-size: contain;
+	}
+
+.sliderform input[type="text"] {
+width: 300px;
+margin: 20px 10px;
+}
+
+.filtersblock input[type="text"] {
+width: 400px;
+margin: 20px 10px;
+}
+
+
+	.menu li {
+	padding: 40px 5px 25px 5px;
+	width: 80px;
+	}
+
+	.menu a:nth-child(3) li {
+	margin-right: 60px;
+	}
+
+	.menu a:nth-child(4) li {
+	margin-left: 60px;
+	}
+
+.maipttee {
+width: 660px;
+height: auto;
+}
+
+	.logo {
+	width: 120px;
+	height: 140px;
+	margin-left: -60px;
+	}
+
+	.aboutblock {
+	background-position: center top;
+	background-size: 100% auto;
+	width: 700px;
+	height: 800px;
+	}
+	
+	.abouttext {
+	transform: translate(0,0);
+	width: 640px;
+	margin-left: -330px;
+	left: 50%;
+	top: 680px;
+	}
+	
+	.aboutblock1 {
+	background-position: center top;
+	background-size: 100% auto;
+	width: 700px;
+	height: 760px;
+	}
+	
+	.abouttext1 {
+	transform: translate(0,0);
+	width: 640px;
+	margin-left: -330px;
+	left: 50%;
+	top: 420px;
+	}
+	
+	.posilka{
+	display: none;
+	}
+	
+	.leftcolonka {
+	padding: 10px;
+	width: 660px;
+	}
+	
+	.righcolonka{
+	width: 660px;
+	}
+	
+	.plashkasforig:before {
+	display: none;
+	}
+	
+	.plashkasforig {
+	background-color: #f5f5f5;
+	}
+	
+}
